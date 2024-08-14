@@ -1,0 +1,15 @@
+{
+  "name": "demo0811",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "serve": "node websocket-server.js"
+  },
+  "keywords": [],
+  "author": "muba",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
